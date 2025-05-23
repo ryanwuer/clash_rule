@@ -1,2 +1,3 @@
 rules:
+  - DOMAIN-SUFFIX, iamyeka.top, PROXY
   - DOMAIN-SUFFIX, perplexity.ai, DIRECT
