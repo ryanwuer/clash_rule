@@ -1,5 +1,6 @@
 rules:
   - DOMAIN-SUFFIX, iamyeka.top, Proxy
+  - DOMAIN-SUFFIX, mengyun.cloud, Proxy
   - DOMAIN-SUFFIX, perplexity.ai, DIRECT
   - DOMAIN-SUFFIX, app-measurement.com, AI Suite
   
